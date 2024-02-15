@@ -1,0 +1,22 @@
+body{text-align: center;}
+body {color : white; background-image: url(GreenGem.jpg); background-repeat: no-repeat; background-attachment: fixed; background-size: cover;}
+nav {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+}
+nav a:hover {
+    text-decoration: underline;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #ddd;
+    margin-bottom: 20px;
+} 
